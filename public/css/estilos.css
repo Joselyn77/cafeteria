@@ -1,0 +1,12 @@
+.navbar-custom {
+    background-color: #d2b48c !important; /* Tono tierra claro */
+    color: white;
+}
+
+.navbar-custom .nav-link {
+    color: white !important;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #f5deb3 !important; /* Un tono más claro en hover */
+}
